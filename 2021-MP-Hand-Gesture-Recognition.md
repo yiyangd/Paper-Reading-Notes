@@ -1,3 +1,5 @@
+## On-device Real-time Hand Gesture Recognition
+
 For our case, we **define two virtual keypoints to describe hand center, scale, and rotation angle**: a **center keypoint** and an **alignment keypoint**. 
 对于我们的情况，我们**定义了两个虚拟关键点来描述手的中心、比例和旋转角度**：一个**中心关键点**和一个**对齐关键点**。
 - The **center keypoint** is estimated as **the average of the index, middle, and pinky knuckles**.  
