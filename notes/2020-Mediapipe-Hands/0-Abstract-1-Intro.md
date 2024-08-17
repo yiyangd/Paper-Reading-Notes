@@ -1,4 +1,4 @@
-# Title
+# MediaPipe Hands: On-device Real-time Hand Tracking
 ## Abstract
 We present a **real-time, on-device hand tracking solution** that **predicts a human hand skeleton from a single RGB camera** for AR/VR applications. Our pipeline consists two models: 1) a palm detector that provides a bounding box of a hand and a hand landmark model that predicts the hand skeleton. This solution is implemented using MediaPipe, a framework for building cross-platform ML solutions. The proposed model and pipeline architecture exhibit real-time inference speed on mobile GPUs with high prediction quality. MediaPipe Hands is open-sourced at https://mediapipe.dev.
 
